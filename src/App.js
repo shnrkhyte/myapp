@@ -11,7 +11,7 @@ Amplify.configure(aws_exports);
 function App() {
   return (
     <Header as="h1">
-      Hello World!
+      Hello World
     </Header>
   );
 }
